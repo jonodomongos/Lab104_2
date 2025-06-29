@@ -4,6 +4,6 @@ public class Main {
 
         System.out.println("Segundo envío desde consola");
 
-        System.out.println("Commit C");
+        System.out.println("Envio rama HotFixes desde IDE");
     }
 }
